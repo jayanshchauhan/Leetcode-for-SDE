@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+/*class Solution {
 public:
     void reorderList(ListNode* head) {
         if(!head || !head->next) {
@@ -36,6 +36,74 @@ public:
             temp->next = t;
             temp = t;
             i++;
+        }
+    }
+};
+*/
+
+class Solution {
+public:
+
+    ListNode* getmid(ListNode* head)
+    {
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+
+        while(fast!=nullptr && fast->next!=nullptr)
+        {
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
+
+    ListNode* reverse(ListNode* right)
+    {
+        if(right==nullptr || right->next==nullptr)
+        {
+            return right;
+        }
+        ListNode* prev=nullptr;
+        ListNode* current=right;
+        ListNode* forward;
+
+        while(current!=nullptr)
+        {
+            forward=current->next;
+            current->next=prev;
+            prev=current;
+            current=forward;
+        }
+        return prev;
+    }
+
+    void reorderList(ListNode* head) {
+        
+        if(head==nullptr || head->next==nullptr)
+        {
+            return;
+        }
+
+        ListNode* mid=getmid(head);
+        ListNode* left=head;
+        ListNode* right=mid->next;
+        mid->next=nullptr;
+
+        right=reverse(right);
+
+        ListNode* nextn;
+        ListNode* nextn1;
+        
+        while(left!=nullptr && right!=nullptr)
+        {
+            ListNode* nextn=left->next;
+            ListNode* nextn1=right->next;
+
+            left->next=right;
+            right->next=nextn;
+
+            left=nextn;
+            right=nextn1;
         }
     }
 };
