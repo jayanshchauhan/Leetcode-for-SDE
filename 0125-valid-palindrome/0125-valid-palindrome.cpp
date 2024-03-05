@@ -13,10 +13,10 @@ public:
                 return false;
             }
             else{
-                while(!isalpha(s[i]) && !iswalnum(s[i]) && i<j){
+                while(!iswalnum(s[i]) && i<j){
                     i++;
                 }
-                while(!isalpha(s[j]) && !iswalnum(s[j]) && i<j){
+                while(!iswalnum(s[j]) && i<j){
                     j--;
                 }
             }
