@@ -9,11 +9,6 @@ public:
             if(tolower(s[i]) == tolower(s[j])){
                 i++;
                 j--;
-            }else if(((int(s[i])>=65 && int(s[i])<=90 )||(int(s[i])>=97 && int(s[i])<=122 ))
-                    &&
-                     ((int(s[j])>=65 && int(s[j])<=90 )||(int(s[j])>=97 && int(s[j])<=122 )
-                    )){
-                return false;
             }else if(iswalnum(s[i]) && iswalnum(s[j])){
                 return false;
             }
