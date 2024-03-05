@@ -27,12 +27,6 @@ public:
     }
     string addBinary(string a, string b) {
         
-        // long long int t1 = toInt(a);
-        // long long int t2 = toInt(b);
-        // cout<<t1<<endl;
-        // cout<<t2;
-        // string res = toBinary(t1+t2);
-        // return !empty(res) ? res : "0";
         int i=a.length()-1;
         int j=b.length()-1;
 
