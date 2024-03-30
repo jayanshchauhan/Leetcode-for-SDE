@@ -13,10 +13,12 @@ public:
             if(nums[i]==maxel){
              cnt++;
             }  
-            while(cnt>=k )  // here checking with j<i is not correct, and it will fail some test cases, so not add that .
+            while(cnt>=k )  // here checking with j<i is not correct, and it will fail some test cases, so not add that 
             {
                 
                 ans+=(nums.size()-i); // at least k time maxel should appear in the array, so till index i maxel is appearing k times, so starting from i till last index, it will apprear for k time and more, so that is a valid subarray
+                                cout<<ans<<endl;
+
                  if(nums[j]==maxel){
                  cnt--;
                   }
