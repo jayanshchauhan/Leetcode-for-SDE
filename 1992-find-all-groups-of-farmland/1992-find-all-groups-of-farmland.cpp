@@ -34,7 +34,7 @@ public:
                         ans.push_back(pairr.second);
                         check = true;
                     }
-                    if(!check){cout<<"hu";
+                    if(!check){
                         ans.push_back(i);
                         ans.push_back(j);
                     }
