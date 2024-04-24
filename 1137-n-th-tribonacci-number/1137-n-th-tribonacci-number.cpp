@@ -1,7 +1,7 @@
 class Solution {
 public:
     int tribonacci(int n) {
-        if(n>37)return 0;
+   //     if(n>37)return 0;
         vector<long long int> store(n+1);
         if(n == 0) return 0;
         if(n == 1) return 1;
