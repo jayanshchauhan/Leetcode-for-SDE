@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0231-power-of-two) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
