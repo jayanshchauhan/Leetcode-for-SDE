@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -69,8 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
