@@ -104,12 +104,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
