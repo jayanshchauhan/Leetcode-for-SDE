@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3723-sum-of-good-numbers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3723-sum-of-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
