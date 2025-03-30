@@ -13,7 +13,7 @@ public:
                     isGood = false; 
                 }
             }
-            if (i + k < n) { 
+            if (i + k <= n-1) { 
                 if (nums[i] <= nums[i + k]) { 
                     isGood = false; 
                 }
