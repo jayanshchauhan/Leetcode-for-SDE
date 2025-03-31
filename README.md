@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3430-count-days-without-meetings) |
@@ -160,9 +162,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
