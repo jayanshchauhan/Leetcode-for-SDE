@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -187,4 +190,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
