@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
