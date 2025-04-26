@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0797-rabbits-in-forest) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
@@ -214,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2699-count-the-number-of-fair-pairs) |
