@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2262-solving-questions-with-brainpower) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -243,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0797-rabbits-in-forest) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -301,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Rolling Hash
 |  |
