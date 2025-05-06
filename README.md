@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2249-count-the-hidden-sequences) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
