@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0868-push-dominoes) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0072-edit-distance) |
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0806-domino-and-tromino-tiling) |
