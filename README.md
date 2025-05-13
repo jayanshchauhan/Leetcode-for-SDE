@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
 |  |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
 | ------- |
