@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0416-partition-equal-subset-sum) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
