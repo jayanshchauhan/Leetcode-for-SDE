@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0643-maximum-average-subarray-i) |
 | [0797-rabbits-in-forest](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0945-snakes-and-ladders) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
