@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
