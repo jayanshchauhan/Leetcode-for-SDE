@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2793-count-the-number-of-complete-components) |
@@ -420,4 +421,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
