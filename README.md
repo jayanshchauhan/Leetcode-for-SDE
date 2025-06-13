@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
