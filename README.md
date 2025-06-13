@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1058-lexicographically-smallest-equivalent-string) |
