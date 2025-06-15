@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2050-count-good-numbers) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2681-put-marbles-in-bags) |
