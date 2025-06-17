@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayanshchauhan/Leetcode-for-SDE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
